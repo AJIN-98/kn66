@@ -19,7 +19,7 @@ public class NoteServiceApplication {
 	
 	/*
 	 * Define the bean for Filter registration. Create a new FilterRegistrationBean
-	 * object and use setFilter() method to set new instance of JwtFilter object.
+	 * object and use setFilter() method to set new instance of JwtFilter object,
 	 * Also specifies the Url patterns for registration bean.
 	 */
 	  @Bean
